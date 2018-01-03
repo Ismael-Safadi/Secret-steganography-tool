@@ -25,5 +25,9 @@ then select show from radiobuttun
 finally click submit 
 >>>>>>>>>>>>
 <br> 
-Thank you for using my tool > 
-Ismael Al-safadi
+to contact with me on facebook >> https://www.facebook.com/profile.php?id=100019740513920
+<br>
+My email:ismaelalsafadi@protonmail.com
+Gmail:osamaopsmrx@gmail.com
+<br>
+thank you for using my tool ^__^ 
