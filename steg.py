@@ -9,7 +9,7 @@ import time,subprocess
 import os
 from A import AESCipher
 root=Tk()
-root.title("JEARMY STEGANOGRAPHY 'CODED BY:ALEX' ")
+root.title("Secure STEGANOGRAPHY 'CODED BY:Ismael Al-safadi' ")
 AES_KEY = ttk.Entry(root, width=50)
 AES_KEY.grid(row=1, column=1, columnspan=2, pady=10)
 def filename():
